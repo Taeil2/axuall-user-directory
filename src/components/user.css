@@ -1,0 +1,41 @@
+.user {
+  flex: 1 0 80%;
+  border: 1px solid #999;
+  border-radius: 15px;
+  overflow: hidden;
+  padding: 15px;
+  margin: 10px;
+  display: flex;
+  background: #fff;
+}
+.user .image-container {
+  margin-right: 20px;
+}
+.user .image-container img {
+  border-radius: 10px;
+}
+.user .information {
+  max-width: calc(100% - 148px);
+}
+.user h2 {
+  margin-top: 0;
+  margin-bottom: 5px;
+  font-size: 22px;
+}
+.user p {
+  white-space: nowrap;
+  line-height: 1.4em;
+}
+.user p a {
+  display: inline-block;
+  max-width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+@media (min-width: 800px) {
+  .user {
+    flex: 1 0 40%;
+  }
+}
