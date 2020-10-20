@@ -7,7 +7,7 @@ import Pagination from './pagination';
 class App extends React.Component {
   state = {
     users: [],
-    numUsers: 20,
+    numUsers: 50,
     resultsPerPage: 10,
     pages: 1,
     page: 1,

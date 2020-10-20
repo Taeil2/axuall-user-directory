@@ -5,6 +5,9 @@ a {
   color: #1976D2;
   text-decoration: none;
 }
+button {
+  cursor: pointer;
+}
 .wrapper {
   max-width: 1000px;
   margin: 0 auto;
