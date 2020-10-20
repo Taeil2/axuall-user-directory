@@ -1,3 +1,11 @@
+## About
+
+The details for this exercise are here:
+
+[https://gist.github.com/jessie-codes/30976a51ea43461f40dad8475c13b02b](https://gist.github.com/jessie-codes/30976a51ea43461f40dad8475c13b02b)
+
+Deployment: [https://axuall-user-directory.vercel.app/](https://axuall-user-directory.vercel.app/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
